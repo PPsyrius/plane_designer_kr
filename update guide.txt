@@ -1,0 +1,6 @@
+History Folder:
+- Update Germany/Italy/Japan ones from KR
+- Overwrite other countries
+
+Common Folder:
+- Overwrites AI_Equipments, Decisions, Scripted Effects, and Scripted Triggers with empty files
