@@ -1,6 +1,110 @@
 History Folder:
-- Update Germany/Italy/Japan ones from KR
-- Overwrite other countries
+- [REPLACE] Update Germany/Italy/Japan ones from KR
+- [EMPTY] Overwrite other countries with blank files
 
 Common Folder:
-- Overwrites AI_Equipments, Decisions, Scripted Effects, and Scripted Triggers with empty files
+- [EMPTY] Overwrites AI_Equipments, Decisions, Scripted Effects, and Scripted Triggers with empty files
+- [REPLACE][EDIT] Remove "BUL_army_restrictions" from "common\units\equipment\plane_airframes.txt"
+- [EDIT] Overwrites medium_nav_bomber's cv setting (Remove this once RAD finally fixed this)
+- [REPLACE] Update air_doctrine.txt ones from KR.
+- [REPLACE][ADD] Add the following section to KR's industry.txt:
+	- "fuel_refining""
+		enable_equipment_modules = {
+			high_octane_fuel_small
+			high_octane_fuel_medium
+			high_octane_fuel_large
+		}
+- [REPLACE][ADD] Add the following module support to KR's "electronic_mechanical_engineering.txt":
+	- "centimetric_radar":
+		enable_equipment_modules = {
+			ship_radar_3
+			air_air_radar_1
+			tank_radio_3
+			magnetic_anomaly_detector
+		}
+	- "improved_centimetric_radar":
+		enable_equipment_modules = {
+			air_ground_radar_1
+			sonobuoy
+		}
+	- "decimetric_radar":
+		enable_equipment_modules = {
+			ship_radar_1
+			tank_radio_2
+			radio_navigation_2
+			leigh_light
+		}
+	- "improved_decimetric_radar":
+		enable_equipment_modules = {
+			ship_radar_2
+			asv_radar
+		}
+	- "mechanical_computing":
+		enable_equipment_modules = {
+			bomb_sights_1
+			reflex_gunsight_1
+			cas_reflex_gunsight_1
+		}
+
+	- "computing_machine":
+		enable_equipment_modules = {
+			reflex_gunsight_2
+			cas_reflex_gunsight_2
+		}
+	- "improved_computing_machine":
+		enable_equipment_modules = {
+			stabilizer
+			bomb_sights_2
+			gyro_gunsight_1
+		}
+	- "advanced_computing_machine":
+		enable_equipment_modules = {
+			gyro_gunsight_2
+		}
+	- "advanced_fire_control_system":
+		enable_equipment_modules = {
+			ship_fire_control_system_3
+			remote_control_turret_system
+		}
+	- "jet_engines":
+		path = {
+			leads_to_tech = jet_engine_improvements
+			research_cost_coeff = 1
+		}
+	- Add new tech below "jet_engines":
+	jet_engine_improvements = {
+
+		enable_equipment_modules = {
+			afterburner
+			supersonic_air_intake
+			swept_wings
+			improved_compressor
+		}
+
+		research_cost = 1
+
+		folder = {
+			name = electronics_folder
+			position = { x = 2 y = 4 }
+		}
+
+		categories = {
+			air_equipment
+			plane_modules_tech
+		}
+
+		desc = JET_ENGINES_SPECIAL
+
+		ai_will_do = {
+			base = 0
+			modifier = {
+				add = 10
+				is_eligible_for_improved_light_aircraft_production = yes
+				OR = {
+					has_tech = advanced_small_airframe
+					has_tech = fighter3
+				}
+			}
+		}
+	}
+- [REPLACE][EDIT] remove any reference to specific tag or is_major from bba_air_techs.txt
