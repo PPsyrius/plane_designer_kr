@@ -652,6 +652,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 	heavy_bombs = {
@@ -682,6 +683,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -713,6 +715,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 	rocket_rails = {
@@ -749,6 +752,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 	rocket_rails_2 = {
@@ -850,6 +854,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -890,6 +895,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -931,6 +937,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -965,6 +972,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -1003,6 +1011,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -1040,6 +1049,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -1098,6 +1108,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -1294,6 +1305,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -1435,6 +1447,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -1472,6 +1485,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -1504,6 +1518,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -1542,6 +1557,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
@@ -1605,6 +1621,7 @@ technologies = {
 				add = 25
 				has_tech = basic_small_airframe
 				is_eligible_for_light_aircraft_production = yes
+			}
 		}
 	}
 
