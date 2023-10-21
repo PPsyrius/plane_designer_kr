@@ -4,7 +4,22 @@ History Folder:
 
 Common Folder:
 - [EMPTY] Overwrites AI_Equipments, Decisions, Scripted Effects, and Scripted Triggers with empty files
-- [REPLACE][EDIT] Remove "BUL_army_restrictions" from "common\units\equipment\plane_airframes.txt"
+- [EDIT] Remove "BUL_army_restrictions" from "common\units\equipment\plane_airframes.txt"
+	- Add the following in `medium_plane_airframe_x`'s "special_type_slot_1" and "special_type_slot_2":
+				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_medium
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					remote_control_turret_system_category
+				}
 - [EDIT] Overwrites medium_nav_bomber's cv setting (Remove this once RAD finally fixed this)
 - [REPLACE] Update air_doctrine.txt ones from KR.
 - [REPLACE][ADD] Add the following section to KR's industry.txt:

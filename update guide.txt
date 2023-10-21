@@ -1,6 +1,0 @@
-History Folder:
-- Update Germany/Italy/Japan ones from KR; Overwrite other countries
-
-Common Folder:
-- Overwrites script_enums with KR files (don't forgot to add back medium_plane_naval_bomber_airframe though)
-- Overwrites AI_Equipments, Decisions, Scripted Effects, and Scripted Triggers with empty files

@@ -78,93 +78,98 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_small
+					plane_construction_type_module_small
 				}
 			}
 			special_type_slot_8 = {
@@ -455,93 +460,98 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_small
+					plane_construction_type_module_small
 				}
 			}
 			special_type_slot_8 = {
@@ -633,94 +643,105 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_small
+					plane_construction_type_module_small
 				}
 			}
 			special_type_slot_8 = {
@@ -815,93 +836,104 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_small
+					plane_construction_type_module_small
 				}
 			}
 			special_type_slot_8 = {
@@ -1005,99 +1037,104 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_small
+					plane_construction_type_module_small
 				}
 			}
 			special_type_slot_8 = {
@@ -1187,31 +1224,32 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 		}
@@ -1486,93 +1524,98 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_small
+					plane_construction_type_module_small
 				}
 			}
 			special_type_slot_8 = {
@@ -1653,94 +1696,105 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_small
+					plane_construction_type_module_small
 				}
 			}
 			special_type_slot_8 = {
@@ -1830,94 +1884,105 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_small
+					plane_construction_type_module_small
 				}
 			}
 			special_type_slot_8 = {
@@ -2009,100 +2074,105 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_small
-					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
+					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
+					plane_special_module_small
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_small
+					plane_construction_type_module_small
 				}
 			}
 			special_type_slot_8 = {
@@ -2217,16 +2287,16 @@ equipments = {
 			fixed_auxiliary_weapon_slot_5 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_6 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
@@ -2243,16 +2313,17 @@ equipments = {
 				required = no
 				allowed_module_categories = {
 					mine_warfare_defense
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
+					plane_special_module_ASW
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
-					plane_special_module_ASW
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 				}
 			}
 
@@ -2261,14 +2332,16 @@ equipments = {
 				allowed_module_categories = {
 					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
-					plane_special_module_engine
 				}
 			}
 
@@ -2277,12 +2350,13 @@ equipments = {
 				allowed_module_categories = {
 					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
@@ -2292,12 +2366,13 @@ equipments = {
 				allowed_module_categories = {
 					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
@@ -2307,33 +2382,35 @@ equipments = {
 				allowed_module_categories = {
 					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
 					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_medium
+					plane_construction_type_module_medium
 				}
 			}
 			special_type_slot_8 = {
@@ -2652,16 +2729,16 @@ equipments = {
 			fixed_auxiliary_weapon_slot_5 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_6 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
@@ -2677,46 +2754,50 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
 					remote_control_turret_system_category
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
 					remote_control_turret_system_category
-					plane_special_module_engine
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
 					remote_control_turret_system_category
 				}
 			}
@@ -2724,14 +2805,15 @@ equipments = {
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
 					remote_control_turret_system_category
 				}
 			}
@@ -2739,35 +2821,37 @@ equipments = {
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
 					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
 					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_medium
+					plane_construction_type_module_medium
 				}
 			}
 			special_type_slot_8 = {
@@ -2864,16 +2948,16 @@ equipments = {
 			fixed_auxiliary_weapon_slot_5 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_6 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
@@ -2892,46 +2976,53 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
-					plane_special_module_engine
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
@@ -2939,14 +3030,16 @@ equipments = {
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
@@ -2954,14 +3047,16 @@ equipments = {
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
@@ -2969,21 +3064,23 @@ equipments = {
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_medium
+					plane_construction_type_module_medium
 				}
 			}
 			special_type_slot_8 = {
@@ -3081,16 +3178,16 @@ equipments = {
 			fixed_auxiliary_weapon_slot_5 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_6 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
@@ -3109,46 +3206,53 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
-					plane_special_module_engine
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
@@ -3156,14 +3260,16 @@ equipments = {
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
@@ -3171,35 +3277,39 @@ equipments = {
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_medium
+					plane_construction_type_module_medium
 				}
 			}
 			special_type_slot_8 = {
@@ -3296,16 +3406,16 @@ equipments = {
 			fixed_auxiliary_weapon_slot_5 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_6 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
@@ -3324,49 +3434,53 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
-					plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
-					plane_special_module_engine
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
@@ -3374,15 +3488,16 @@ equipments = {
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
@@ -3390,15 +3505,16 @@ equipments = {
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
@@ -3406,22 +3522,23 @@ equipments = {
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_medium
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_medium
+					plane_construction_type_module_medium
 				}
 			}
 			special_type_slot_8 = {
@@ -3526,31 +3643,31 @@ equipments = {
 			fixed_auxiliary_weapon_slot_5 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_6 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 			fixed_auxiliary_weapon_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_8 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 			engine_type_slot = {
@@ -3564,90 +3681,95 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					mine_warfare_defense
-					plane_special_module_engine
+					plane_special_module_radio_navigation
 				}
 			}
 
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 				}
 			}
 
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 				}
 			}
 
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 				}
 			}
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
 					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					mine_warfare_defense
+					plane_special_module_radio_navigation
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_large
+					plane_construction_type_module_large
 				}
 			}
 		}
@@ -3901,31 +4023,31 @@ equipments = {
 			fixed_auxiliary_weapon_slot_5 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_6 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 			fixed_auxiliary_weapon_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_8 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 			engine_type_slot = {
@@ -3939,96 +4061,101 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
-					plane_special_module_engine
+					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_large
+					plane_construction_type_module_large
 				}
 			}
 		}
@@ -4112,31 +4239,31 @@ equipments = {
 			fixed_auxiliary_weapon_slot_5 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_6 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 			fixed_auxiliary_weapon_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_8 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 			engine_type_slot = {
@@ -4152,96 +4279,107 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
-					plane_special_module_engine
+					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
+					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_ASW
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_large
+					plane_construction_type_module_large
 				}
 			}
 		}
@@ -4321,31 +4459,31 @@ equipments = {
 			fixed_auxiliary_weapon_slot_5 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_6 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 			fixed_auxiliary_weapon_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_8 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 			engine_type_slot = {
@@ -4361,96 +4499,107 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
-					plane_special_module_engine
+					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_large
+					plane_construction_type_module_large
 				}
 			}
 		}
@@ -4534,31 +4683,31 @@ equipments = {
 			fixed_auxiliary_weapon_slot_5 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_6 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 			fixed_auxiliary_weapon_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 
 			fixed_auxiliary_weapon_slot_8 = {
 				required = no
 				allowed_module_categories = {
-				plane_special_module_defense_turret
-				plane_special_module_defense_turret_x2
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 				}
 			}
 			engine_type_slot = {
@@ -4574,102 +4723,107 @@ equipments = {
 			special_type_slot_1 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_2 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
-					plane_special_module_engine
+					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_3 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_4 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_5 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 
 			special_type_slot_6 = {
 				required = no
 				allowed_module_categories = {
+					mine_warfare_defense
 					plane_special_module_ASW
+					plane_special_module_air_air_radar
+					plane_special_module_air_ground_radar
+					plane_special_module_bomb_sights
+					plane_special_module_engine
+					plane_special_module_jet
 					plane_special_module_large
 					plane_special_module_radial_engine
-					plane_special_module_jet
-					plane_special_module_bomb_sights
-					remote_control_turret_system_category
 					plane_special_module_radio_navigation
-					plane_special_module_air_ground_radar
-					plane_special_module_air_air_radar
-					mine_warfare_defense
+					remote_control_turret_system_category
 				}
 			}
 			special_type_slot_7 = {
 				required = no
 				allowed_module_categories = {
-				plane_construction_type_module_large
+					plane_construction_type_module_large
 				}
 			}
 		}
