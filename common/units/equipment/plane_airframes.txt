@@ -3686,6 +3686,8 @@ equipments = {
 					plane_special_module_air_air_radar
 					plane_special_module_air_ground_radar
 					plane_special_module_bomb_sights
+					plane_special_module_defense_turret
+					plane_special_module_defense_turret_x2
 					plane_special_module_engine
 					plane_special_module_large
 					plane_special_module_radial_engine
