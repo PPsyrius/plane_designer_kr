@@ -1,6 +1,7 @@
 version="1"
 dependencies={
 	"Kaiserreich"
+	"Kaiserreich Dev Build"
 	"Reworked Air Designer"
 }
 tags={
